@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # ( Φ ω Φ )
-[![MehakKambo’s github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=MehakKambo&line_height=24&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=MehakKambo&layout=compact&langs_count=8&exclude_repo=bingode,github-readme-stats&card_width=277)](https://github.com/anuraghazra/github-readme-stats)
+[![MehakKambo’s github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=MehakKambo&line_height=24&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=MehakKambo&layout=compact&langs_count=8&exclude_repo=bingode,github-readme-stats&card_width=277)](https://github.com/anuraghazra/github-readme-stats)
