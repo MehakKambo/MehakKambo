@@ -91,7 +91,7 @@ I am a student, currently studying Computer Science at University of Washington.
 - Improve my basketball skills!
 
 ## Reach me 
-[![Website](https://img.shields.io/badge/Personal%20Website?style=for-the-badge&logo=About.me&logoColor=white)](https://mehak.dev/)
+[![Me](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mehak.dev/)
 [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/MehakKambo)
 [![Linkedin](https://img.shields.io/badge/-Mehak%20Kambo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MehakKambo)](https://www.linkedin.com/in/MehakKambo)
 [![Mail](https://img.shields.io/badge/-mkambo07@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/MehakKambo)](mailto:mkambo07@gmail.com)
