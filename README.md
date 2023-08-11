@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+<div align="left">
+	<img src="https://github.com/MehakKambo/MehakKambo/blob/main/intro.png">
 </div>
 
 # ( Φ ω Φ )
