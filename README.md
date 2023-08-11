@@ -100,7 +100,7 @@ I am a student, currently studying Computer Science at University of Washington.
 ### Interesting stats
 [![MehakKambo’s github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=MehakKambo&line_height=24&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=MehakKambo&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dark&exclude_repo=bingode,github-readme-stats&card_width=277)](https://github.com/anuraghazra/github-readme-stats)
 
-Thanks for stopping by! 😁
+### Thanks for stopping by! 😁
 
 ![](https://komarev.com/ghpvc/?username=MehakKambo&color=blueviolet)
 
