@@ -47,38 +47,8 @@ I am a student, currently studying Computer Science at University of Washington.
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 					<td align="center">
-						<span><strong>Typescript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-					<td  align="center">
-						<span><strong>Redux</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-					</td>
-					<td align="center">
-						<span><strong>Material UI</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-					</td>
-					<td align="center">
-						<span><strong>React Native</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-				</tr>
-				<tr>
-					<td align="center">
-						<span><strong>Next JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Vue.JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+						<span><strong>Django</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
 					</td>
 				</tr>
 			</tbody>
@@ -99,12 +69,16 @@ I am a student, currently studying Computer Science at University of Washington.
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
 					</td>
 					<td width="25%" align="center">
+						<span><strong>Flask</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+					</td>
+					<td width="25%" align="center">
 						<span><strong>MongoDB</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Firebase</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+						<span><strong>PostgresSQL</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 					</td>
 				</tr>
 			</tbody>
