@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="left">
-	<img src="https://github.com/MehakKambo/MehakKambo/blob/main/intro.png">
+	<img src="https://github.com/MehakKambo/MehakKambo/blob/main/intro2.png">
 </div>
 
 # ( Φ ω Φ )
