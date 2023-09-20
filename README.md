@@ -47,6 +47,10 @@ I am a student, currently studying Computer Science at University of Washington.
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 					<td align="center">
+						<span><strong>ReactJS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td align="center">
 						<span><strong>Django</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
 					</td>
