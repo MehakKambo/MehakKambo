@@ -7,6 +7,9 @@
 ## About me :mortar_board:
 I am a student, currently studying Computer Science at University of Washington. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
+# Resume
+**Find my latest resume:** <a href="https://mehak.dev/assets/resume/Mehak_Resume.pdf" target="_blank"><b>HERE</b></a>
+
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
 	<center>
