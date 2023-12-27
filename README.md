@@ -1,8 +1,9 @@
 # Welcome to my github! 👋
 
-[//]: <> <div align="left">
-[//]: <>	<img src="https://github.com/MehakKambo/MehakKambo/blob/main/intro2.png">
-[//]: <></div>
+<!--- <div align="left">
+	<img src="https://github.com/MehakKambo/MehakKambo/blob/main/intro2.png">
+</div>
+--->
 
 ## About me :mortar_board:
 I am a student, currently studying Computer Science at University of Washington. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
