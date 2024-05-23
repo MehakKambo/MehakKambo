@@ -6,7 +6,7 @@
 --->
 
 ## About me :mortar_board:
-I am a graduate student, currently studying Computer Science at Seattle University. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a recent graduate from the University of Washington. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 # Resume
 **Find my latest resume:** [**HERE**](https://mehak.dev/assets/resume/MehakK_Resume.pdf)
