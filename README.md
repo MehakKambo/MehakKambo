@@ -6,10 +6,10 @@
 --->
 
 ## About me :mortar_board:
-I am a recent graduate from the University of Washington. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a Masters student at the University of Washington studying Computer Science. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 # Resume
-**Find my latest resume:** [**HERE**](https://mehak.dev/assets/resume/MehakK_Resume.pdf)
+**Find my latest resume:** [**HERE**](https://mehak.dev/assets/resume/Mehak_Resume.pdf)
 
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
@@ -24,6 +24,10 @@ I am a recent graduate from the University of Washington. From very early on in 
 					<td width="25%" align="center">
 						<span><strong>C++</strong></span><br/>
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>C#</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Java</strong></span><br/>
