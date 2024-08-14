@@ -33,6 +33,10 @@ I am a Masters student at the University of Washington studying Computer Science
 						<span><strong>Java</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
 					</td>
+					<td width="25%" align="center">
+						<span><strong>Go</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/go.svg">
+					</td>
 				</tr>
 			</tbody>
 		</table>
